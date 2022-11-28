@@ -8,7 +8,7 @@ export default function TestScrollImg() {
 
     const frameCount = 120;
     const currentFrame = index => (
-      `.././Recordings/ETA 65-200_${index.toString().padStart(4, '0')}.jpg`
+      `https://github.com/Mahyarkarimnejad/Atlas-Pump_hosting/blob/main/public/Recordings/ETA%2065-200_${index.toString().padStart(4, '0')}.jpg`
     )
 
     const preloadImages = () => {
