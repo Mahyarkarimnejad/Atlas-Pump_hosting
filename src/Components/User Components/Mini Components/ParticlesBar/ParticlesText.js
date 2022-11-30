@@ -11,7 +11,7 @@ function ParticlesText() {
         <h1 className='particles-title-sty'>پمپ های سانترفیوژ</h1>
       </Fade>
       <Fade right big>
-        <h1 className='particles-body-sty'>(گریز از مرکز)</h1>
+        <h1 className='particles-body-sty'>(هکش کردم)</h1>
       </Fade>
       <Fade bottom>
         <div className='product-btn-sty'>
